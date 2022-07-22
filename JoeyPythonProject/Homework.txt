@@ -1,0 +1,13 @@
+Assignment 1
+
+  Write a python code that will iterate through any file directory
+  The script should be able to list all the files that are in a specified direcotry
+  
+ 
+ 
+ Assignment 2
+ 
+    Create  text file call mytestapp.txt (This can be done manually. Bonus points if you can do it from a python script)
+    In the mytestapp.txt  write the following statement " A slobcat I am. A slobcat I will always be". (This can be done manually. Bonus points if you can do it from a python script)
+    Using a python script, open the  mytestapp.txt 
+    
