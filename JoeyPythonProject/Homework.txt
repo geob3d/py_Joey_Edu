@@ -7,7 +7,7 @@ Assignment 1
  
  Assignment 2
  
-    Create  text file call mytestapp.txt (This can be done manually. Bonus points if you can do it from a python script)
-    In the mytestapp.txt  write the following statement " A slobcat I am. A slobcat I will always be". (This can be done manually. Bonus points if you can do it from a python script)
+    Create  text file call mytestapp.txt in the project directory
+    In the mytestapp.txt  write the following statement " A slobcat I am. A slobcat I will always be". 
     Using a python script, open the  mytestapp.txt 
     
