@@ -11,3 +11,5 @@ Assignment 1
     In the mytestapp.txt  write the following statement " A slobcat I am. A slobcat I will always be". 
     Using a python script, open the  mytestapp.txt 
     
+I
+Something cool to create- I want to create a probability generator of some kind. I will probably need to read up more on statistics to do that.  I will need to use random.choice and import random library to accomplish this feat.  
